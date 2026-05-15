@@ -4,6 +4,10 @@
 
 ### Equipamentos usados neste projeto:
 
-- 3 impressoras
 - 1 Servidor Windows
--   
+- 1 Linux Debian Server( com Tomcat java, e MySQL)
+- 3 impressoras
+- 2 Monitor touch
+- 1 notebook
+- 1 tv de 43 polegadas
+  
