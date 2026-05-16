@@ -1,6 +1,6 @@
 # Sobre a empresa
 
-Somos uma empressa de infraestrutura de TI e implementação de redes locais, neste projeto nossa empresa foi contratada pela empresa **prompt four** para implrementar toda a infraestrutura, a prompt four esta desenvolvendo uma aplicação Web onde ela faz o cadastro das pessoas que assistiram a apresentação dos projetos (desde os funcionários e alunos até os visitantes) é uma aplicação que realizará sorteios utilizando o número de identificação fornecido após o cadastro, nosso trabalho será fornece:
+Somos uma empressa de infraestrutura de TI e implementação de redes locais, neste projeto nossa empresa foi contratada pela empresa **prompt four** para implementar toda a infraestrutura da evento, a **prompt four** esta desenvolvendo uma aplicação Web onde ela faz o cadastro das pessoas que assistiram a apresentação dos projetos (desde os funcionários e alunos até os visitantes) é uma aplicação que realizará sorteios utilizando o número de identificação fornecido após o cadastro, nosso trabalho será fornece:
 
 - Servidor Linux com TomCat e MySQL para hospedagem
 - Windows Server
