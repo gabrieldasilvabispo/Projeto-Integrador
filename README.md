@@ -11,7 +11,7 @@ Somos uma empressa de infraestrutura de TI e implementação de redes locais, ne
 
 # Equipamentos usados neste projeto
 
-- 1 Servidor Windows
+- 1 Servidor Windows Server
 - 1 Linux Debian Server( com Tomcat java, e MySQL)
 - 3 impressoras
 - 2 Monitor touch
